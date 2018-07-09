@@ -8,5 +8,5 @@
   "telemetry.enableCrashReporter": false,
   "workbench.colorTheme": "City Lights",
   "workbench.iconTheme": "city-lights-icons-vsc"
+  "typescript.preferences.quoteStyle": "single",
 }
-
