@@ -8,5 +8,7 @@
   "telemetry.enableCrashReporter": false,
   "workbench.colorTheme": "City Lights",
   "workbench.iconTheme": "city-lights-icons-vsc",
-  "typescript.preferences.quoteStyle": "single"
+  "typescript.preferences.quoteStyle": "single",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true
 }
