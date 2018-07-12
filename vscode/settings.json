@@ -11,5 +11,6 @@
   "typescript.preferences.quoteStyle": "single",
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
-  "editor.detectIndentation": false
+  "editor.detectIndentation": false,
+  "git.autofetch": true
 }
