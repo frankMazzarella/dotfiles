@@ -6,9 +6,10 @@
   "npm-scripts.showStartNotification": false,
   "telemetry.enableTelemetry": false,
   "telemetry.enableCrashReporter": false,
-  "workbench.colorTheme": "City Lights",
+  "workbench.colorTheme": "Blink Contrast (rainglow)",
   "workbench.iconTheme": "city-lights-icons-vsc",
   "typescript.preferences.quoteStyle": "single",
   "files.insertFinalNewline": true,
-  "files.trimFinalNewlines": true
+  "files.trimFinalNewlines": true,
+  "editor.detectIndentation": false
 }
