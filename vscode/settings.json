@@ -12,5 +12,6 @@
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
   "editor.detectIndentation": false,
-  "git.autofetch": true
+  "git.autofetch": true,
+  "editor.acceptSuggestionOnEnter": "off",
 }
