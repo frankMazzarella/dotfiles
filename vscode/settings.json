@@ -1,17 +1,24 @@
 {
-  "editor.rulers": [120],
+  "editor.rulers": [
+    120
+  ],
   "editor.renderWhitespace": "boundary",
-  "workbench.startupEditor": "welcomePage",
+  "workbench.startupEditor": "newUntitledFile",
   "editor.tabSize": 2,
-  "npm-scripts.showStartNotification": false,
   "telemetry.enableTelemetry": false,
   "telemetry.enableCrashReporter": false,
-  "workbench.colorTheme": "Blink Contrast (rainglow)",
   "workbench.iconTheme": "city-lights-icons-vsc",
   "typescript.preferences.quoteStyle": "single",
   "files.insertFinalNewline": true,
   "files.trimFinalNewlines": true,
   "editor.detectIndentation": false,
   "git.autofetch": true,
-  "editor.acceptSuggestionOnEnter": "off",
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "Blink Contrast (rainglow)",
+  "diffEditor.ignoreTrimWhitespace": true,
+  "javascript.preferences.quoteStyle": "single",
+  "gitlens.codeLens.enabled": false,
+  "[rust]": {
+    "editor.tabSize": 4
+  }
 }
